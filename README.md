@@ -6,9 +6,9 @@ This is a simple, educational Python project designed to demonstrate global keyb
 ---
 
 ## Features
-<ul>* **Global Monitoring:** Records keyboard inputs across all applications and windows on the local machine.</ul>
-<ul>* **Web Interface:** Uses Gradio for a simple **START/STOP** interface.</ul>
-<ul>* **Single String Output:** Stores all recorded inputs (including special keys like `[ENTER]` and `[SPACE]`) and displays the full log as a single text string upon stopping.</ul>
+* **Global Monitoring:** Records keyboard inputs across all applications and windows on the local machine.
+* **Web Interface:** Uses Gradio for a simple **START/STOP** interface.
+* **Single String Output:** Stores all recorded inputs (including special keys like `[ENTER]` and `[SPACE]`) and displays the full log as a single text string upon stopping.
 
 ## Prerequisites
 Before running the application, ensure you have the following installed on your local machine:-
@@ -20,8 +20,8 @@ Before running the application, ensure you have the following installed on your 
 ### 1. Clone the Repository
 Clone this project to your local machine:
 ```bash
-git clone [YOUR_REPOSITORY_URL_HERE]
-cd [YOUR_PROJECT_FOLDER_NAME]
+git clone https://github.com/PERSONAL-PROJECTS-2000/KEYLOG.git[https://github.com/PERSONAL-PROJECTS-2000/KEYLOG.git]
+cd KEYLOG
 ```
 ### 2. Install Dependencies
 You need the `pynput` library for system monitoring and `gradio` for the web interface.
