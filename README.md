@@ -20,7 +20,7 @@ Before running the application, ensure you have the following installed on your 
 ### 1. Clone the Repository
 Clone this project to your local machine:
 ```bash
-git clone https://github.com/PERSONAL-PROJECTS-2000/KEYLOG.git[https://github.com/PERSONAL-PROJECTS-2000/KEYLOG.git]
+git clone https://github.com/PERSONAL-PROJECTS-2000/KEYLOG.git
 cd KEYLOG
 ```
 ### 2. Install Dependencies
